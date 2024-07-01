@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently working with Web Development and other programming languages
+- 🌱 I’m currently working with Web Development, with ASP.NET MVC and other programming languages
 
-- 📫 How to reach me **juancaulloav@gmail.com**
+- 📫 How to reach me **juancarlosulloav@gmail.com**
 
 - ⚡ Fun fact :- Food sports and Tech are my reasons to live.
 
