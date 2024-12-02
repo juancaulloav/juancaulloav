@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently working with Web Development, with ASP.NET MVC and other programming languages
+- 🌱 I’m currently working in Web Development using nestjs for the backend, and react for the frontend
 
 - 📫 How to reach me **juancarlosulloav@gmail.com**
 
